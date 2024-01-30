@@ -1,0 +1,29 @@
+{
+    "amazon_outerpage":{
+        "base_url":"https://www.amazon.in/",
+        "container_class":"s-main-slot s-result-list s-search-results sg-row",
+        "image_id":"sg-col-inner",
+        "link_id":"a-link-normal s-no-outline"
+    },
+    "amazon_innerpage":{
+        "title_tag_class":["span","a-size-large product-title-word-break"],
+        "price_tag_class":["span","a-price-whole"],
+        "rating_tag_class":["span","a-size-base a-color-base"],
+        "num_of_reviews_tag_class":["span","acrCustomerReviewText"],
+        "prod_details_tag_class":["ul","a-unordered-list a-vertical a-spacing-mini"]
+    },
+    "flipkart_outerpage":{
+        "base_url":"https://www.flipkart.com/",
+        "container_class":"_1YokD2 _3Mn1Gg",
+        "products_class":"_1AtVbE col-12-12",
+        "prod_link_class":"_2UzuFa",
+        "image_class":"_2r_T1I"
+    },
+    "flipkart_innerpage":{
+        "title_tag_class":["span","B_NuCI"],
+        "price_tag_class":["div","_30jeq3 _16Jk6d"],
+        "rating_tag_class":["div","_3LWZlK _3uSWvT"],
+        "num_of_reviews_tag_class":["span","_2_R_DZ"],
+        "prod_details_tag_class":["div","X3BRps"]
+    }
+}
